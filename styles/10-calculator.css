@@ -1,0 +1,48 @@
+body {
+  background-color: black;
+}
+
+.grey-button {
+  height: 60px;
+  width: 60px;
+  background-color: rgb(51, 51, 51);
+  border: none;
+  color: white;
+  padding: 10px;
+  border-radius: 60px;
+  font-size: 26px;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.clear-button {
+  height: 60px;
+  width: 60px;
+  background-color: rgb(51, 51, 51);
+  border: none;
+  color: white;
+  padding: 10px;
+  border-radius: 60px;
+  font-size: 17px;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.calculation {
+  color: white;
+  font-size: 35px;
+  font-family: arial;
+  height: 40px;
+  overflow: hidden;
+}
+
+.orange-button {
+  background-color: rgb(254, 160, 10);
+  color: white;
+  border: none;
+  height: 60px;
+  width: 60px;
+  border-radius: 60px;
+  font-size: 26px;
+  cursor: pointer;
+}
